@@ -5,8 +5,11 @@
 
 Nodes are not restricted to their theme. This list may be useful for new users who wish to choose a server by theme
 
-#### [Book / Game / Show theme](#entertainment)
-* https://mordor.social - for orcs and trolls
+#### :clapper: [Game / Book / Show theme](#entertainment)
+* [mordor.social](https://mordor.social) - for orcs and trolls
+
+#### :earth_asia: [Notable generalistic](#notable-generalistic)
+* [venera.social](https://venera.social) - friendly humans are welcome
 
 ## Disclaimer
 `Following nodes skipped`: closed registration *at the moment of checking*, running old code, no themed description.
