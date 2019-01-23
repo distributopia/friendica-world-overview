@@ -1,5 +1,5 @@
 
-# :jack_o_lantern: Friendica nodes overview
+# :rabbit: Friendica nodes overview
 
 `WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/friendica-world-overview). Please, send your MRs there. PRs here won't be merged.
 
