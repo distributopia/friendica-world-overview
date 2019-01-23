@@ -20,10 +20,10 @@ Nodes are not restricted to their theme. This list may be useful for new users w
 * [opensim.fun](https://opensim.fun) - community geared toward OpenSim users
 
 #### :video_game: [Gamedev](#gamedev)
-*[rpgtable.top](https://rpgtable.top) - RPG community
+* [rpgtable.top](https://rpgtable.top) - RPG community
 
 #### :tent: [Regional](#regional)
-illi.co.mg - for Malagasy citizens and people interested in Madagascar (!! server runs outdated software)
+* [illi.co.mg](https://illi.co.mg) - for Malagasy citizens and people interested in Madagascar (!! server runs outdated software)
 
 ## Disclaimer
 `Following nodes skipped`: closed registration *at the moment of checking*, running old code, no themed description.
