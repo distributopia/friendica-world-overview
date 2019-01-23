@@ -5,11 +5,25 @@
 
 Nodes are not restricted to their theme. This list may be useful for new users who wish to choose a server by theme
 
+#### :earth_asia: [Notable generalistic](#notable-generalistic)
+* [venera.social](https://venera.social) - friendly humans are welcome
+* [snarl.de](https://snarl.de) - node of Berlin Friendica enthusiasts, open to everyone
+* [meld.de](https://meld.de) - your data is yours, only you decide when, where and how you share it
+
+#### :flags: [Language specific](#languages)
+* [friendica.cz](https://friendica.cz) - for Czechs and Czech-speaking people (general purpose)
+
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [mordor.social](https://mordor.social) - for orcs and trolls
 
-#### :earth_asia: [Notable generalistic](#notable-generalistic)
-* [venera.social](https://venera.social) - friendly humans are welcome
+#### :penguin: [For techies](servers-for-techies)
+* [opensim.fun](https://opensim.fun) - community geared toward OpenSim users
+
+#### :video_game: [Gamedev](#gamedev)
+*[rpgtable.top](https://rpgtable.top) - RPG community
+
+#### :tent: [Regional](#regional)
+illi.co.mg - for Malagasy citizens and people interested in Madagascar (!! server runs outdated software)
 
 ## Disclaimer
 `Following nodes skipped`: closed registration *at the moment of checking*, running old code, no themed description.
