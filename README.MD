@@ -16,9 +16,6 @@ Nodes are not restricted to their theme. This list may be useful for new users w
 #### :clapper: [Game / Book / Show theme](#entertainment)
 * [mordor.social](https://mordor.social) - for orcs and trolls
 
-#### :penguin: [For techies](servers-for-techies)
-* [opensim.fun](https://opensim.fun) - community geared toward OpenSim users
-
 #### :video_game: [Gamedev](#gamedev)
 * [rpgtable.top](https://rpgtable.top) - RPG community
 
