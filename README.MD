@@ -22,6 +22,9 @@ Nodes are not restricted to their theme. This list may be useful for new users w
 #### :tent: [Regional](#regional)
 * [illi.co.mg](https://illi.co.mg) - for Malagasy citizens and people interested in Madagascar (!! server runs outdated software)
 
+#### :telescope: [Hobbies](#hobbies)
+* [segeln.social](https://segeln.social) - for sailing people (mainly German speaking community)
+
 ## Disclaimer
 `Following nodes skipped`: closed registration *at the moment of checking*, running old code, no themed description.
 
