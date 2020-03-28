@@ -7,7 +7,6 @@ Nodes are not restricted to their theme. This list may be useful for new users w
 
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 * [venera.social](https://venera.social) - friendly humans are welcome
-* [snarl.de](https://snarl.de) - node of Berlin Friendica enthusiasts, open to everyone
 * [meld.de](https://meld.de) - your data is yours, only you decide when, where and how you share it
 
 #### :telescope: [Hobbies](#hobbies)
