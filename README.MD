@@ -5,6 +5,9 @@
 
 Nodes are not restricted to their theme. This list may be useful for new users who wish to choose a server by theme
 
+#### :bulb: [Sciences](#sciences)
+* [lugnasad.eu](https://lugnasad.eu) - for French speaking science lovers
+
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 * [venera.social](https://venera.social) - friendly humans are welcome
 * [meld.de](https://meld.de) - your data is yours, only you decide when, where and how you share it
