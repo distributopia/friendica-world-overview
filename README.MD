@@ -11,12 +11,11 @@ Nodes are not restricted to their theme. This list may be useful for new users w
 #### :earth_asia: [Notable generalistic](#notable-generalistic)
 * [venera.social](https://venera.social) - friendly humans are welcome
 * [meld.de](https://meld.de) - your data is yours, only you decide when, where and how you share it
-
-#### :telescope: [Hobbies](#hobbies)
-* [segeln.social](https://segeln.social) - for sailing people (mainly German speaking community)
+* [friendica.xyz](https://friendica.xyz) - node for everyone, based in Northern Germany
+* [h-y-p-e-r.space](https://h-y-p-e-r.space) - public server located in the Netherlands
 
 ## Disclaimer
-`Following nodes skipped`: closed registration *at the moment of checking*, running old code, no themed description.
+`Following nodes skipped`: number of users > 5.000, closed registration *at the moment of checking*, running old code, no themed description.
 
 Add your own themed Friendica node by opening an issue or via [MR](https://gitlab.com/distributopia/friendica-world-overview). If your server already has many users, it will be nice of you to let other servers grow, for a healthier decentralization.
 
